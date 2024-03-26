@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://assets.nst.com.my/images/articles/botslibrary_NSTfield_image_socialmedia.var_1659514277.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.borrow_book{
+    background-color: azure;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 9%;
+}
+
+
+button{
+    background-color:rgb(151, 146, 140);
+    border: 2px;
+    border-color: black ;
+    border-style: solid;
+    height: 30px;
+    width: 70px;
+}
+
+button:hover{
+    background-color: goldenrod;
+}

@@ -1,0 +1,81 @@
+body{
+    /* background-color: rgb(198, 215, 215); */
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230526/pngtree-an-old-bookcase-in-a-library-image_2642908.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    display: flex;
+    width: 100%;
+    background-color: rgb(5, 23, 17);
+    color: rgb(255, 255, 255);
+    opacity: 0.8;
+}
+
+.heading h4{
+    text-indent: 800px;
+}
+
+.admin_home{
+    display: flex;
+}
+
+.user{
+    margin: 35px;
+    background-color: aliceblue;
+    width: 33%;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    padding:10px;
+    margin-left: 120px;
+    opacity: 0.8;
+}
+
+
+.book{
+    margin: 35px;
+    background-color: aliceblue;
+    width: 33%;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.admin_home2{
+    display: flex;
+}
+
+.borrow{
+    margin: 35px;
+    background-color: aliceblue;
+    width: 33%;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    padding:10px;
+    margin-left: 120px;
+    opacity: 0.8;
+}
+
+
+.return{
+    margin: 35px;
+    background-color: aliceblue;
+    width: 33%;
+    text-align: center;
+    opacity: 0.8;
+}
+
+
+
+button{
+    background-color:rgb(234, 203, 166);
+    border: 2px;
+    border-color: black ;
+    border-style: solid;
+}
+
+button:hover{
+    background-color: goldenrod;
+}
