@@ -1,0 +1,126 @@
+2024-03-11 18:46:34,672 - INFO - Connection Successfull
+2024-03-11 18:47:13,206 - INFO - Connection Successfull
+2024-03-11 18:47:13,304 - DEBUG - Using selector: SelectSelector
+2024-03-11 18:47:29,660 - INFO - Connection Successfull
+2024-03-11 18:47:29,763 - DEBUG - Using selector: SelectSelector
+2024-03-11 18:47:38,733 - INFO - User :[(1, 'Tim', 'Code', 30, 'tim@gmail.com', 'tim', '["111", "132", "32", "5"]')]
+2024-03-11 18:48:29,755 - INFO - Connection Successfull
+2024-03-11 18:48:29,854 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:51:04,263 - ERROR - Exception Occured :'NoneType' object has no attribute 'info'
+Traceback (most recent call last):
+  File "C:\Users\joshna.j\Desktop\Library_Management_System\scripts\core\handler\sql_handler.py", line 33, in insert_users
+    self.loggers.info("User Inserted with user id : {}".format(user_id))
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'info'
+ 2024-03-11 18:51:51,028 - INFO - Connection Successfull
+ 2024-03-11 18:51:51,119 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:51:56,136 - INFO - Connection Successfull
+ 2024-03-11 18:51:56,222 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:51:58,001 - WARNING - User already exist
+ 2024-03-11 18:52:07,549 - ERROR - Exception Occured :'NoneType' object has no attribute 'info'
+Traceback (most recent call last):
+  File "C:\Users\joshna.j\Desktop\Library_Management_System\scripts\core\handler\sql_handler.py", line 33, in insert_users
+    self.loggers.info("User Inserted with user id : {}".format(result))
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'info'
+ 2024-03-11 18:52:38,167 - INFO - Connection Successfull
+ 2024-03-11 18:52:38,256 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:52:43,708 - INFO - Connection Successfull
+ 2024-03-11 18:52:43,806 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:52:53,244 - INFO - User Inserted with user id : None
+ 2024-03-11 18:54:08,443 - INFO - Connection Successfull
+ 2024-03-11 18:54:08,555 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:54:32,184 - INFO - User Inserted with user id : None
+ 2024-03-11 18:55:07,647 - INFO - Connection Successfull
+ 2024-03-11 18:55:07,736 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:55:13,919 - INFO - User Inserted with user id : None
+ 2024-03-11 18:55:45,581 - INFO - Connection Successfull
+ 2024-03-11 18:55:45,673 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:55:51,929 - INFO - User Inserted with user id : (45773, 'string', 'string', 0, 'string', 'string')
+ 2024-03-11 18:56:23,642 - INFO - Connection Successfull
+ 2024-03-11 18:56:23,730 - DEBUG - Using selector: SelectSelector
+ 2024-03-11 18:57:30,912 - INFO - Connection Successfull
+ 2024-03-11 18:57:31,002 - DEBUG - Using selector: SelectSelector
+ 2024-03-12 11:48:21,577 - INFO - Connection Successfull
+ 2024-03-12 11:48:25,353 - INFO - Connection Successfull
+ 2024-03-12 11:48:25,522 - DEBUG - Using selector: SelectSelector
+ 2024-03-12 11:48:25,607 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:02:26,278 - INFO - Connection Successfull
+ 2024-03-12 12:03:00,860 - INFO - Connection Successfull
+ 2024-03-12 12:03:10,951 - INFO - Connection Successfull
+ 2024-03-12 12:03:14,102 - INFO - Connection Successfull
+ 2024-03-12 12:03:14,230 - DEBUG - Using selector: SelectSelector
+  2024-03-12 12:04:07,674 - INFO - Connection Successfull
+ 2024-03-12 12:04:10,788 - INFO - Connection Successfull
+ 2024-03-12 12:04:10,964 - DEBUG - Using selector: SelectSelector
+ 2024-03-12 12:04:11,029 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:11,417 - DEBUG - 6 changes detected: {(<Change.deleted: 3>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc.1921963816624'), (<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log'), (<Change.deleted: 3>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc'), (<Change.added: 1>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc.1921963816624'), (<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__'), (<Change.added: 1>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc')}
+ 2024-03-12 12:04:11,804 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:12,195 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:12,572 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:12,958 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:13,350 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:13,737 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:14,126 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:14,515 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:14,903 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:15,289 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:15,678 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:16,067 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:16,455 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:16,840 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:17,227 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:17,615 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:18,005 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:18,395 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:18,801 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:19,189 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:19,565 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:19,952 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:20,339 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:20,729 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:21,118 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:48,821 - INFO - Connection Successfull
+ 2024-03-12 12:04:52,293 - INFO - Connection Successfull
+ 2024-03-12 12:04:52,454 - DEBUG - Using selector: SelectSelector
+ 2024-03-12 12:04:52,632 - DEBUG - 6 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__'), (<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log'), (<Change.deleted: 3>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc.2969524811312'), (<Change.deleted: 3>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc'), (<Change.added: 1>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc'), (<Change.added: 1>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\__pycache__\\main.cpython-312.pyc.2969524811312')}
+ 2024-03-12 12:04:53,023 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:53,414 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:53,789 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:54,164 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:54,552 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:54,973 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:55,363 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:55,754 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:56,139 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:56,531 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:56,922 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:57,310 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:57,697 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:58,084 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:58,469 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:04:58,857 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\joshna.j\\Desktop\\Library_Management_System\\main.log')}
+ 2024-03-12 12:05:16,631 - INFO - Connection Successfull
+ 2024-03-12 12:05:29,242 - INFO - Connection Successfull
+ 2024-03-12 12:06:11,509 - INFO - Connection Successfull
+ 2024-03-12 12:08:41,291 - INFO - Connection Successfull
+ 2024-03-12 12:10:18,459 - INFO - users :[(1, 111, 1, 'Tim', 'Code', 30, 'tim@gmail.com', 'tim', '["111", "132", "32", "5"]'), (1, 111, 1, 'Tim', 'Code', 30, 'tim@gmail.com', 'tim', '["111", "132", "32", "5"]'), (1, 111, 1, 'Tim', 'Code', 30, 'tim@gmail.com', 'tim', '["111", "132", "32", "5"]'), (1, 111, 1, 'Tim', 'Code', 30, 'tim@gmail.com', 'tim', '["111", "132", "32", "5"]'), (1, 111, 1, 'Tim', 'Code', 30, 'tim@gmail.com', 'tim', '["111", "132", "32", "5"]')]
+ 2024-03-12 12:15:20,807 - INFO - Connection Successfull
+ 2024-03-12 12:57:03,410 - INFO - Connection Successfull
+ 2024-03-12 12:59:20,646 - INFO - Connection Successfull
+ 2024-03-12 14:55:59,380 - INFO - Connection Successfull
+ 2024-03-12 14:56:12,205 - INFO - Connection Successfull
+ 2024-03-12 14:56:31,112 - INFO - fetched
+ 2024-03-12 14:57:46,692 - INFO - Connection Successfull
+ 2024-03-12 15:01:46,628 - INFO - fetched
+ 2024-03-12 15:03:09,844 - INFO - Connection Successfull
+ 2024-03-12 15:34:19,049 - INFO - Connection Successfull
+ 2024-03-13 12:57:56,045 - INFO - Connection Successfull
+ 2024-03-13 14:07:04,507 - INFO - Connection Successfull
+ 2024-03-13 15:46:51,497 - INFO - Connection Successfull
+ 2024-03-13 15:47:45,378 - INFO - Connection Successfull
+ 2024-03-13 15:48:14,198 - INFO - Connection Successfull
+ 2024-03-13 15:48:27,203 - INFO - Connection Successfull
+ 2024-03-13 15:52:49,870 - INFO - Connection Successfull
+ 2024-03-13 15:56:58,959 - INFO - Connection Successfull
+ 2024-03-13 15:58:14,871 - INFO - Connection Successfull
